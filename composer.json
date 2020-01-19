@@ -1,7 +1,7 @@
 {
     "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "description": "Laravel Shop.",
+    "keywords": ["framework", "laravel", "shop", "ecommerce"],
     "license": "MIT",
     "type": "project",
     "require": {
